@@ -1,6 +1,6 @@
 {
   "name": "v-slide-swap-zoom",
-  "version": "0.0.1",
+  "version": "0.0.0",
   "description": "Vue-Slide-Swap-Zoom é um componente Vue.js leve e personalizável que permite criar transições de slides com efeitos dinâmicos de deslizar, troca e zoom, ideal para galerias de imagem, carrosséis ou exibições de conteúdo interativo.",
   "author": "Kelly",
   "main": "src/index.js",
