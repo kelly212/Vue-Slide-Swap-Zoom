@@ -1,5 +1,5 @@
 <template>
-			<div style="border: 1px grey dashed; ">
+			<div>
 						<v-row>
 									<v-col v-if="is_vertical" cols="12" sm="12" md="3" lg="2" style="width: 100%; ">
 												<div style="max-height: 400px; align-content: center">
